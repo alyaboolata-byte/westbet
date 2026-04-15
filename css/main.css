@@ -378,8 +378,24 @@ tbody tr:last-child td { border-bottom: none; }
   .mob-cta { display: block; }
   body { padding-bottom: 72px; }
 
-  .nav { display: none; flex-direction: column; position: fixed; top: 62px; left: 0; right: 0; bottom: 0; background: var(--bg); border-top: 1px solid var(--border); padding: 14px; z-index: 999; overflow-y: auto; gap: 2px; }
-  .nav.open { display: flex; }
+  .nav {
+    display: none !important;
+    flex-direction: column;
+    align-items: stretch;
+    position: fixed;
+    top: 62px;
+    left: 0;
+    right: 0;
+    height: calc(100vh - 62px);
+    height: calc(100dvh - 62px);
+    background: var(--bg);
+    border-top: 1px solid var(--border);
+    padding: 14px;
+    z-index: 999;
+    overflow-y: auto;
+    gap: 2px;
+  }
+  .nav.open { display: flex !important; }
   .nav a { font-size: 15px; padding: 13px 14px; }
   .nav-toggle { display: block; }
   .header-btns { display: none; }
