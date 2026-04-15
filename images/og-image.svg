@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0b1121"/>
+<stop offset="100%" stop-color="#162040"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<text x="600" y="280" text-anchor="middle" font-family="Arial,sans-serif" font-weight="900" font-size="120" fill="#ffcc00">1xBet</text>
+<text x="600" y="380" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="48" fill="#ffffff">WestBet.ru — Обзор и Бонусы 2026</text>
+<rect x="420" y="430" width="360" height="60" rx="30" fill="#ffcc00"/>
+<text x="600" y="470" text-anchor="middle" font-family="Arial,sans-serif" font-weight="800" font-size="24" fill="#0b1121">ПОЛУЧИТЬ БОНУС</text>
+<text x="600" y="590" text-anchor="middle" font-family="Arial,sans-serif" font-weight="400" font-size="20" fill="#8892a8">westbet.ru — независимый обзор 18+</text>
+</svg>
