@@ -11,6 +11,36 @@
       "source": "/cgi-sys/defaultwebpage.cgi",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/1xbet-vyvod-sredstv/",
+      "destination": "/vyvod-sredstv/",
+      "permanent": true
+    },
+    {
+      "source": "/1win-slots/",
+      "destination": "/kazino/",
+      "permanent": true
+    },
+    {
+      "source": "/1win-kak-popolnit/",
+      "destination": "/1xbet-kak-popolnit/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/promokody-1win-aprel-2026/",
+      "destination": "/1xbet-promokod/",
+      "permanent": true
+    },
+    {
+      "source": "/en/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/cdn-cgi/:path*",
+      "destination": "/",
+      "permanent": true
     }
   ],
   "headers": [
