@@ -1,5 +1,11 @@
 User-agent: *
 Allow: /
+Disallow: /cgi-sys/
+
+User-agent: Yandex
+Allow: /
+Disallow: /cgi-sys/
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&p&ref&click_id&sub_id
 
 Sitemap: https://westbet.ru/sitemap.xml
-Host: https://westbet.ru
+Host: westbet.ru

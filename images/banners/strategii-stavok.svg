@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+<defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:hsl(208,70%,25%)"/><stop offset="50%" style="stop-color:hsl(248,65%,20%)"/><stop offset="100%" style="stop-color:hsl(288,60%,15%)"/></linearGradient></defs>
+<rect width="800" height="400" fill="url(#bg)"/>
+<text x="400" y="180" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="32" font-weight="bold" opacity="0.95">Strategii Stavok</text>
+<text x="400" y="230" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="18" opacity="0.7">westbet.ru</text>
+<rect x="280" y="260" width="240" height="48" rx="24" fill="rgba(255,255,255,0.15)"/>
+<text x="400" y="290" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="16" font-weight="600">Подробнее →</text>
+</svg>
