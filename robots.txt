@@ -1,3 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-sys/
+
 User-agent: Yandex
 Allow: /
 Disallow: /cgi-sys/
