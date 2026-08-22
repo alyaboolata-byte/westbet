@@ -35,10 +35,29 @@
 <header class="header">
 <div class="header-inner">
 <a href="/" class="logo">West<span>Bet</span></a>
-<nav class="nav" id="mainNav"><a href="/">Главная</a><a href="/obzor/">Обзор</a><a href="/vs-1win/">vs 1win</a><a href="/zerkalo/">Зеркало</a><a href="/bonus/">Бонусы</a><a href="/registraciya/">Регистрация</a><a href="/prilozhenie/">Приложение</a><a href="/kazino/">Казино</a><a href="/stavki/">Ставки</a><a href="/otzyvy/">Отзывы</a></nav>
+<nav class="nav" id="mainNav">
+<a href="/">Главная</a>
+<a href="/obzor/">Обзор</a>
+<a href="/bonus/">Бонусы</a>
+<a href="/zerkalo/">Зеркало</a>
+<a href="/kazino/">Казино</a>
+<a href="/stavki/">Ставки</a>
+<div class="nav-dropdown">
+<button class="nav-dropdown-btn" onclick="this.parentElement.classList.toggle('open')">Ещё ▾</button>
+<div class="nav-dropdown-menu">
+<a href="/registraciya/">Регистрация</a>
+<a href="/prilozhenie/">Приложение</a>
+<a href="/vs-1win/">vs 1win</a>
+<a href="/otzyvy/">Отзывы</a>
+<a href="/1xbet-promokod/">Промокоды</a>
+<a href="/vyvod-sredstv/">Вывод</a>
+<a href="/blog/">Блог</a>
+</div>
+</div>
+</nav>
 <div class="header-btns">
-<a href="https://one-vv793.com/casino/list?open=register&p=8l1p" class="btn-login" rel="nofollow noopener" target="_blank">Вход</a>
-<a href="https://one-vv793.com/casino/list?open=register&p=8l1p" class="btn-reg" rel="nofollow noopener" target="_blank">Регистрация</a>
+<a href="https://one-vv793.com/casino/list?open=register&p=8l1p&sub_id=1xbet-skachat-ios_cta1" class="btn-login" rel="nofollow noopener" target="_blank">Вход</a>
+<a href="https://one-vv793.com/casino/list?open=register&p=8l1p&sub_id=1xbet-skachat-ios_cta2" class="btn-reg" rel="nofollow noopener" target="_blank">Регистрация</a>
 </div>
 <button class="nav-toggle" onclick="document.getElementById('mainNav').classList.toggle('open')" aria-label="Меню">
 <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
@@ -105,7 +124,7 @@
 <p>Выбирая между 1xbet и 1win для установки на iPhone, стоит в первую очередь сравнить не только удобство интерфейса, но и реальные условия бонусной программы. У <strong>1xbet</strong> приветственный бонус оформлен по стандартной для рынка схеме, тогда как <strong>1win</strong> предлагает заметно более щедрые условия: <strong>+500% к депозиту, суммарно до 140 000 рублей на первые 4 пополнения</strong>, а минимальный коэффициент для отыгрыша составляет всего <em>1.30</em> — это один из самых лояльных показателей среди букмекеров, работающих с русскоязычной аудиторией. Приложение 1win для iOS устанавливается по аналогичной схеме — через App Store альтернативного региона либо через адаптированную веб-версию — и по отзывам пользователей отличается лёгким весом и стабильной работой даже на старых моделях iPhone. Для тех, кто выбирает первую платформу для ставок, соотношение размера бонуса и простоты его отыгрыша часто оказывается решающим фактором в пользу 1win.</p>
 
 <div style="text-align:center;margin:24px 0;">
-<a href="https://one-vv793.com/casino/list?open=register&p=8l1p" class="cta-btn cta-btn-green cta-pulse" rel="nofollow noopener" target="_blank">Забрать бонус +500% в 1win</a>
+<a href="https://one-vv793.com/casino/list?open=register&p=8l1p&sub_id=1xbet-skachat-ios_cta3" class="cta-btn cta-btn-green cta-pulse" rel="nofollow noopener" target="_blank">Забрать бонус +500% в 1win</a>
 </div>
 
 <h2>Пошаговый чек-лист установки на iPhone</h2>
@@ -158,8 +177,19 @@
 <footer class="footer">
 <div class="footer-inner">
 <p>© 2024–2026 WestBet.ru</p>
-<p><a href="/karta-sajta/">Карта сайта</a></p>
+<nav class="footer-trust-links"><a href="/o-proekte/">О проекте</a> · <a href="/kontakty/">Контакты</a> · <a href="/politika-konfidencialnosti/">Конфиденциальность</a> · <a href="/partnerskoe-raskrytie/">Партнёрское раскрытие</a> · <a href="/karta-sajta/">Карта сайта</a></nav>
 </div>
 </footer>
+<script>
+document.addEventListener('click', function(e) {
+  var a = e.target.closest('a[href*="one-vv793.com"]');
+  if (!a) return;
+  var url = new URL(a.href);
+  var subId = url.searchParams.get('sub_id') || 'unknown';
+  if (typeof ym === 'function') {
+    ym(108568709, 'reachGoal', 'cta_click', {sub_id: subId, page: location.pathname});
+  }
+});
+</script>
 </body>
 </html>
