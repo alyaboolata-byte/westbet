@@ -45,6 +45,15 @@
   ],
   "headers": [
     {
+      "source": "/(.*\\.ico)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400"
+        }
+      ]
+    },
+    {
       "source": "/(.*\\.(?:js|css|woff2|svg|png|jpg|webp|ico))",
       "headers": [
         {
