@@ -1,0 +1,15 @@
+{
+  "project": "westbet",
+  "sites": [
+    {
+      "host": "westbet.ru",
+      "projectId": "prj_SMJIQMYdO7dwqnpl4YvL6CNPnvtA",
+      "key": "da3638749325d6bc95080b9ad03788ad",
+      "keyLocation": "https://westbet.ru/da3638749325d6bc95080b9ad03788ad.txt",
+      "markerUrl": "https://westbet.ru/indexnow-deployment.json",
+      "fallbackUrls": [
+        "https://westbet.ru/"
+      ]
+    }
+  ]
+}
