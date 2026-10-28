@@ -6,3 +6,5 @@ Allow: /
 
 Sitemap: https://1win.westbet.ru/sitemap.xml
 Host: 1win.westbet.ru
+
+# Verified 2026-10-29
