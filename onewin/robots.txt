@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+Sitemap: https://1win.westbet.ru/sitemap.xml
+Host: 1win.westbet.ru
