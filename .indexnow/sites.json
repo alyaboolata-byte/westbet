@@ -10,6 +10,16 @@
       "fallbackUrls": [
         "https://westbet.ru/"
       ]
+    },
+    {
+      "host": "1win.westbet.ru",
+      "projectId": "prj_8JWDx7J3geLyDeYiyljy1amENcG6",
+      "key": "7b0e06c118f4444ea3c72f81b9a849a2",
+      "keyLocation": "https://1win.westbet.ru/7b0e06c118f4444ea3c72f81b9a849a2.txt",
+      "markerUrl": "https://1win.westbet.ru/indexnow-deployment.json",
+      "fallbackUrls": [
+        "https://1win.westbet.ru/"
+      ]
     }
   ]
 }
