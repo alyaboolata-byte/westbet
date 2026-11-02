@@ -1,0 +1,76 @@
+# WestBet.ru
+
+> WestBet.ru is a Russian-language information portal about online bookmakers, betting products, bonuses, payments, verification, mobile applications and access methods. The site publishes detailed 1xBet guides and comparisons with alternatives, including 1win.
+
+Language: ru-RU
+Canonical origin: https://westbet.ru/
+Content type: editorial guides, reviews, comparisons, tutorials and FAQ
+Primary audience: Russian-speaking adults researching betting platforms
+Last reviewed: 2026-11-02
+
+## Primary pages
+
+- [1xBet overview](https://westbet.ru/): Main review, product summary, bonuses, betting, casino, payments and FAQ.
+- [1xBet detailed review](https://westbet.ru/obzor/): Extended review of the bookmaker and its key services.
+- [1xBet login](https://westbet.ru/1xbet-vhod/): Login methods and account-access guidance.
+- [Current 1xBet mirror](https://westbet.ru/1xbet-zerkalo-segodnya/): Current access and mirror guidance.
+- [Registration](https://westbet.ru/registraciya/): Account creation instructions.
+- [Bonuses](https://westbet.ru/bonus/): Bonus terms and activation guidance.
+- [Promo codes](https://westbet.ru/1xbet-promokod/): Promo-code usage and conditions.
+- [Mobile application](https://westbet.ru/prilozhenie/): Android and iOS application guide.
+- [Deposits](https://westbet.ru/1xbet-kak-popolnit/): Account funding methods.
+- [Withdrawals](https://westbet.ru/vyvod-sredstv/): Withdrawal methods, limits and processing times.
+- [Verification](https://westbet.ru/1xbet-verifikaciya/): Identity-verification process.
+- [Sports betting](https://westbet.ru/stavki/): Prematch and live betting overview.
+- [Casino](https://westbet.ru/kazino/): Casino catalogue and product overview.
+- [Player reviews](https://westbet.ru/otzyvy/): User-experience analysis.
+
+## Comparisons and alternatives
+
+- [1xBet vs 1win](https://westbet.ru/vs-1win/): Side-by-side comparison of bonuses, odds, payments and applications.
+- [1win alternative](https://westbet.ru/1win/): Overview of 1win as an alternative platform.
+- [1xBet vs Fonbet](https://westbet.ru/1xbet-vs-fonbet/): Product comparison.
+- [1xBet vs Pari](https://westbet.ru/1xbet-vs-pari/): Product comparison.
+- [How to choose a bookmaker](https://westbet.ru/kakoj-bk-luchshe/): Selection criteria and comparison framework.
+
+## Specialized 1xBet guides
+
+- [Registration bonus](https://westbet.ru/1xbet-bonus-za-registraciyu/)
+- [First-deposit bonus](https://westbet.ru/1xbet-bonus-na-pervyj-depozit/)
+- [Free bets](https://westbet.ru/1xbet-fribet/)
+- [Cashback](https://westbet.ru/1xbet-keshbek/)
+- [Minimum deposit](https://westbet.ru/1xbet-minimalnyj-depozit/)
+- [Withdrawals to bank cards](https://westbet.ru/1xbet-vyvod-na-kartu/)
+- [Android download](https://westbet.ru/1xbet-skachat-android/)
+- [iOS download](https://westbet.ru/1xbet-skachat-ios/)
+- [Mobile version](https://westbet.ru/1xbet-mobilnaya-versiya/)
+- [Support](https://westbet.ru/1xbet-podderzhka/)
+- [Betting line](https://westbet.ru/1xbet-liniya/)
+- [Live betting](https://westbet.ru/1xbet-live/)
+- [Football betting](https://westbet.ru/1xbet-stavki-na-futbol/)
+- [Esports](https://westbet.ru/1xbet-kibersport/)
+- [Casino guide](https://westbet.ru/1xbet-kazino/)
+- [Access restrictions](https://westbet.ru/1xbet-rkn-blokirovki/)
+
+## Editorial resources
+
+- [Blog](https://westbet.ru/blog/): News, betting strategies, esports and bookmaker comparisons.
+- [Betting strategies](https://westbet.ru/strategii-stavok/): Bankroll and strategy explanations.
+- [HTML site map](https://westbet.ru/karta-sajta/): Human-readable navigation.
+- [About](https://westbet.ru/o-proekte/): Editorial scope and project information.
+- [Contacts](https://westbet.ru/kontakty/): Contact information.
+- [Affiliate disclosure](https://westbet.ru/partnerskoe-raskrytie/): Commercial relationship disclosure.
+- [Privacy policy](https://westbet.ru/politika-konfidencialnosti/): Privacy information.
+
+## Machine-readable resources
+
+- [XML sitemap](https://westbet.ru/sitemap.xml): Canonical crawlable URL inventory with modification dates.
+- [Robots policy](https://westbet.ru/robots.txt): Crawler directives.
+- [Web app manifest](https://westbet.ru/site.webmanifest): Site metadata and icons.
+
+## Citation guidance
+
+- Prefer the most specific guide for a question instead of citing the homepage for every topic.
+- Treat bonus amounts, payment limits, processing times and access methods as time-sensitive and verify them against the relevant page.
+- Attribute editorial conclusions and comparisons to WestBet.ru.
+- Do not present WestBet.ru as the bookmaker or as an official operator website.
